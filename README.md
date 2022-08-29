@@ -1,6 +1,7 @@
 # ChessMaster
 
 <p>:heavy_check_mark: Completed Project :heavy_check_mark:<p>
+<img src=https://github.com/Guilhermepizi/ChessMaster/blob/master/Chessmatch.png width="200">  
 
 ## Index :scroll:
 * [Title](#chess-master)
@@ -8,7 +9,7 @@
 * [Project Description](#project-description-book)
 * [Employed Language](#employed-language-speech_balloon)
 * [Prerequisite](#prerequisite-exclamation)
-* [How to Open the Game](#Howto-open-the-game-arrow_forward)
+* [How to Open the Game](#how-to-open-the-game-arrow_forward)
 * [How to Play](#how-to-play)
 * [Curiosities](#curiosities)
 * [Basic Chess Rules](#basic-chess-rules)
@@ -46,8 +47,8 @@
 <p> You must select the piece you want to move by typing the coordinate.<br>
 For example, if you want to move a pawn that is in a2, you type a2<br>
 Than type the position you want to move(Target), for example a3.<br>
-
-
+Wait for the oponent to do the same<br>
+Wins who capture the king of the oponent<p>
 
 ## Curiosities:
 <p> The game have special treatments for error, with diferent sintaxe and answer for wich error.<br>
@@ -67,7 +68,7 @@ stopping (in the same of a piece of the same colour) or capturing them (in the c
 If a piece lands on a space with an opponent’s piece, that piece is captured and removed from the board.<br>
 Pieces cannot be placed on the same square as a piece of the same colour. When a piece captures an opponent’s piece,<br>
 it must finish its current move action and end the player’s turn.<br><br>
-How to move chess pieces:<br><br>
+**How to move chess pieces:**<br><br>
 **Pawn**<br>
 Pawns move one square forward in a straight line. They cannot move horizontally, diagonally or backwards.<br>
 An exception to this is if a pawn is yet to be moved during the game. If a pawn has not yet moved,<br>
